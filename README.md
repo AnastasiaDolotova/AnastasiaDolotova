@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Anastasia 👋</h1>
 
 <p align="center">
@@ -86,5 +85,3 @@ Data Analyst | Python | SQL | Data Visualization
 ### ⚡ Fun Fact
 
 I teach higher mathematics and enjoy finding elegant solutions both in proofs and in data.
-```
-
