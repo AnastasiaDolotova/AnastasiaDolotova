@@ -60,11 +60,11 @@ Data Analyst | Python | SQL | Data Visualization
 
 ### Clever Search
 
-**Cloud storage platform with intelligent file search capabilities.**
+**Cloud storage platform with smart file search capabilities.**
 
 * Worked on machine learning components
 * Participated in database design and implementation
-* Built functionality for intelligent document retrieval
+* Built functionality for smart document retrieval
 
 **Tech:** 
 `Python` `ML` `Database Systems`
