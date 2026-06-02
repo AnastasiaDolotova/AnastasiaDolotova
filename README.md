@@ -9,29 +9,35 @@ Data Analyst | Python | SQL | Data Visualization
 ## 👩‍💻 About Me
 
 📊 Data Analyst passionate about turning raw data into meaningful insights.
+
 🎓Teaching Assistant in Higher Mathematics at Bauman Moscow State Technical University.
-🐍 Working with Python, SQL, statistical analysis, data visualization, and machine learning fundamentals.
-📚 Interested in analytics, experimentation, decision-making, and data-driven products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode" />
-</p>
-
 ### Data Analytics
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- SciPy
-- Jupyter Notebook
-- SQL
-- PostgreSQL
+![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Databases
+
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -43,11 +49,12 @@ Data Analyst | Python | SQL | Data Visualization
 
 * Conducted full-cycle EDA
 * Performed statistical hypothesis testing
-* Investigated relationships between demographics and investment activity
 * Generated business insights and product recommendations
-* Proposed product hypotheses for increasing customer engagement
 
-**Tech:** Python, Pandas, NumPy, SciPy, Plotly, Seaborn
+**Tech:**
+`Python` `Pandas` `NumPy` `SciPy` `Plotly` `SQL`
+
+🔗 [Repository](https://github.com/AnastasiaDolotova/investment-client-analysis)
 
 ---
 
@@ -59,7 +66,10 @@ Data Analyst | Python | SQL | Data Visualization
 * Participated in database design and implementation
 * Built functionality for intelligent document retrieval
 
-**Tech:** Python, ML, Database Systems
+**Tech:** 
+`Python` `ML` `Database Systems`
+
+🔗 [Repository](https://github.com/WindowsKonon1337/CleverSearch)
 
 ---
 
@@ -71,14 +81,10 @@ Data Analyst | Python | SQL | Data Visualization
 * Participated in backend data modeling
 * Worked with relational database structures
 
-**Tech:** SQL, Database Design
+**Tech:** 
+`SQL` `Database Design`
 
----
-
-## 📫 Connect With Me
-
-- Telegram: https://t.me/kurrrrraga
-- Email: kurrrraga@4aza.com
+🔗 [Repository](https://github.com/cpp-park-vk-education/2023_1_C--)
 
 ---
 
