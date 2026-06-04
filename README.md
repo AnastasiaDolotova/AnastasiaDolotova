@@ -91,4 +91,4 @@ Data Analyst | Python | SQL | Data Visualization
 
 ### ⚡ Fun Fact
 
-I teach higher mathematics and enjoy finding elegant solutions both in proofs and in data.
+I teach higher mathematics and enjoy finding elegant solutions both in proofs and in data
