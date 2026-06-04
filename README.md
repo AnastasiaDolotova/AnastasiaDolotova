@@ -8,9 +8,9 @@ Data Analyst | Python | SQL | Data Visualization
 
 ## 👩‍💻 About Me
 
-📊 Data Analyst passionate about turning raw data into meaningful insights.
+📊 Data Analyst passionate about turning raw data into meaningful insights
 
-🎓Teaching Assistant in Higher Mathematics at Bauman Moscow State Technical University.
+🎓Teaching Assistant in Higher Mathematics at Bauman Moscow State Technical University
 
 ---
 
